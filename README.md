@@ -1,4 +1,4 @@
-# Investimentos
+# Investimentos - Fronteira Eficiente
 
 Projeto com o objetivo de determinar a Fronteira Eficiente para um grupo de ativos.
 
